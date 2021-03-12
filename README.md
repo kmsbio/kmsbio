@@ -1,4 +1,4 @@
-<h1 align="center" style="border:none; font-size: 5.2rem; font-weight: 500;">
+<h1 align="center" style="border:none; font-size: 60px; font-weight: 500;">
   SeobiSeobi
   <br>
   <p align="center">

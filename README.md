@@ -15,6 +15,5 @@
       <img src="github.png" width="48px" style="padding: 0px 2px;"/>
     </a>
   </p>
+  ![Kmsbio's GitHub stats](https://github-readme-stats.vercel.app/api?username=kmsbio)
 </h1>
-
-![Kmsbio's GitHub stats](https://github-readme-stats.vercel.app/api?username=kmsbio)

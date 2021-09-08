@@ -5,9 +5,11 @@
     <a href="https://dalseobi.tistory.com/">
       <img src="tstory.png" width="48px" style="padding: 0px 2px;"/>
     </a>
+    <!--
     <a href="https://www.youtube.com/channel/UCMPAULa9bnvyVwQwBMljglQ">
       <img src="youtube.png" width="48px" style="padding: 0px 2px;"/>
     </a>
+    -->
     <a href="https://www.instagram.com/seobi_0410/">
       <img src="instagram.png" width="48px" style="padding: 0px 2px;"/>
     </a>
